@@ -1,4 +1,4 @@
-# C++ for DSA
+# C++
 
 A complete C++ learning repository covering:
 
